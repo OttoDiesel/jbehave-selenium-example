@@ -1,0 +1,7 @@
+Um JBehave per Maven starten zu können, muss in Eclipse
+das JDK und nicht die JRE konfiguriert sein:
+
+Window > Preferences > Java > Installed JREs
+
+Die Launch-Konfiguration erstellt mit dem Goal "javadoc:javadoc" nebenbei einen Javadoc 
+aller Steps-Klassen: /jbehave-selenium-example/target/site/apidocs/index.html

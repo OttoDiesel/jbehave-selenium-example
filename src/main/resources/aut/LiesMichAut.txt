@@ -1,0 +1,3 @@
+Die getestete "Applikation" bzw. Application under Test besteht nur aus statischen HTML-Seiten.
+
+Dadurch ist der Test deterministisch, unkompliziert, es wird kein Webserver gebraucht usw.

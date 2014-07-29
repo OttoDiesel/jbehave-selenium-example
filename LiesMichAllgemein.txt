@@ -1,0 +1,3 @@
+Dieses Beispiel-Projekt bezieht sich auf den zweiten Teil der Artikelserie über JBehave im Javamagazin 2014.
+
+Die Beispiele für den ersten Teil können den Link https://github.com/OttoDiesel/jbehave-shop-example.git geklont werden.
